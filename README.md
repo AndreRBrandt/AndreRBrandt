@@ -21,7 +21,6 @@ I'm André Brandt, a passionate developer focused on Rust and always eager to le
 - 📧 Email: [andrereisbrandt@gmail.com](mailto:andrereisbrandt@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/andrerbrandt](www.linkedin.com/in/andrerbrandt)
 
-)
 
 ---
 
