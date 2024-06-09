@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**AndreRBrandt/AndreRBrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm André Brandt, a passionate developer focused on Rust and always eager to learn new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and exploring **Rust**.
+- 🛠️ I have a strong background in **JavaScript** and can use it when needed.
+- 📚 Constantly improving and experimenting with new coding techniques.
+- 💬 Ask me about Rust, web development, or the quirks of using NeoVim.
+
+## Technologies & Tools
+
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
+![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=neovim&logoColor=57A143)
+
+## Get in Touch
+
+- 📧 Email: [andrereisbrandt@gmail.com](mailto:andrereisbrandt@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/andrerbrandt](www.linkedin.com/in/andrerbrandt)
+
+)
+
+---
+
+⭐️ From [André Brandt](https://github.com/AndreRBrandt)
