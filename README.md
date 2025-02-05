@@ -1,27 +1,20 @@
-# Hello, World! 👋
+# Hi there, I'm André Brandt 👋
 
-I'm André Brandt, a passionate developer focused on Rust and always eager to learn new technologies.
+I'm a GovTech professional specializing in Data Science and Data Engineering. My focus is on building innovative solutions that transform large volumes of data into actionable insights for the public sector.
 
-## About Me
+## 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript/TypeScript
+- **Front-end:** Next.js, React, Tailwind CSS
+- **Back-end:** Node.js, Flask/Django
+- **Data & ETL:** Pentaho Data Integration, PostgreSQL, MongoDB
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
+- **Testing & Code Quality:** TDD, Jest, React Testing Library, Clean Code practices
+- **DevOps:** Docker, Git, CI/CD pipelines (GitHub Actions)
 
-- 🌱 I’m currently learning and exploring **Rust**.
-- 🛠️ I have a strong background in **JavaScript** and can use it when needed.
-- 📚 Constantly improving and experimenting with new coding techniques.
-- 💬 Ask me about Rust, web development, or the quirks of using NeoVim.
+## 🚀 Current Project
+**GovData Insights**  
+A platform to analyze public spending data. The project integrates ETL processes, predictive analytics, and interactive dashboards built with Next.js and React/TypeScript.
 
-## Technologies & Tools
-
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=neovim&logoColor=57A143)
-
-## Get in Touch
-
-- 📧 Email: [andrereisbrandt@gmail.com](mailto:andrereisbrandt@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/andrerbrandt](www.linkedin.com/in/andrerbrandt)
-
-
----
-
-⭐️ From [André Brandt](https://github.com/AndreRBrandt)
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/andrerbrandt/)
+- [Email](andrereisbrandt@gmail.com)
