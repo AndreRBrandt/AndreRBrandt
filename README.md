@@ -5,7 +5,7 @@
 
 # Hi, I’m André Brandt 👋
 
-I’m a Software Developer pivoting into **Data Analysis & Business Intelligence**, passionate about transforming raw data into actionable insights to drive smarter decisions. I build end-to-end analytical solutions using Python, SQL, and BI tools like Power BI and Tableau.
+I’m a Software Developer **Data Analysis & Business Intelligence**, passionate about transforming raw data into actionable insights to drive smarter decisions. I build end-to-end analytical solutions using Python, SQL, and BI tools like Power BI and Tableau.
 
 ---
 
@@ -29,7 +29,7 @@ I’m a Software Developer pivoting into **Data Analysis & Business Intelligence
 
 ## Skills & Tools
 
-- **Languages:** Python, SQL, R  
+- **Languages:** Python, SQL, Javascript and Rust 
 - **Data Manipulation:** pandas, NumPy, SQLAlchemy  
 - **Visualization & BI:** Matplotlib, Seaborn, Power BI, Tableau  
 - **ETL & Orchestration:** Airflow, Azure Data Factory, custom Python scripts  
@@ -65,8 +65,7 @@ Each project includes clear documentation, reproducible notebooks, and insights 
 ## Get in Touch
 
 - 🔗 **LinkedIn:** [linkedin.com/in/AndreRBrandt](https://www.linkedin.com/in/AndreRBrandt/)  
-- 📧 **Email:** andre.brandt@example.com  
-- 🌐 **Portfolio:** [andrebrandt.dev](https://andrebrandt.dev)  
+- 📧 **Email:** andrereisbrandt@gmail.com.com  
 
 > _“Data is the new oil, and we’re drilling for insights!”_
 
