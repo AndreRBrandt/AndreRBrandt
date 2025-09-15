@@ -1,85 +1,81 @@
 <p align="center">
-  <img src="banner.png" alt="Data Analysis & BI Banner" />
+  <img src="banner.png" alt="Data & BI Engineering Banner" />
 </p>
 
-# Olá, sou André Brandt 👋
+# Hi, I'm André Brandt 👋
 
-### Engenheiro de Dados e Analista de BI | Ex-Desenvolvedor de Software
+### Data & BI Engineer | Software Developer
 
-Sou um profissional apaixonado por dados, com uma missão clara: transformar dados brutos em **estratégias de negócio**. Minha experiência sólida em **desenvolvimento de software** me permite não apenas analisar e visualizar informações, mas também construir **soluções de dados ponta a ponta** — da engenharia e automação de pipelines (ETL) à criação de dashboards interativos e insights acionáveis.
+I build data solutions that bridge the gap between raw information and strategic business decisions. My background in software development isn't just a part of my history—it's the foundation of my approach. I engineer robust, automated, and scalable data systems, from crafting intricate ETL pipelines to developing insightful, interactive dashboards.
+
+My passion is to architect the entire data journey, transforming complex business problems into clear, actionable intelligence.
 
 * 🔗 **LinkedIn:** [linkedin.com/in/AndreRBrandt](https://www.linkedin.com/in/AndreRBrandt/)
 * 📧 **Email:** andrereisbrandt@gmail.com
 
 ---
 
-## 🚀 Skills & Ferramentas
+## 🚀 Core Competencies & Tech Stack
 
-Minha stack de ferramentas foi construída para cobrir todo o ciclo de vida dos dados, combinando o melhor dos mundos de Análise e Engenharia.
+My toolkit is selected to handle the full data lifecycle, ensuring quality, automation, and powerful visualization.
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> |
-| **Análise e Manipulação** | `pandas`, `NumPy`, `SQLAlchemy`, `Jupyter Notebooks` |
-| **BI & Visualização** | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> `Matplotlib`, `Seaborn` |
-| **Engenharia & ETL** | <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> `Azure Data Factory`, `Scripts Python customizados` |
-| **DevOps & Infra** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> |
+| **Data Engineering & ETL**| `Python (Pandas, SQLAlchemy)`, `Jupyter`, `Apache Airflow`, `PostgreSQL`, `Docker` |
+| **BI & Visualization** | `BIMachine`, `Power BI`, `Tableau`, `Matplotlib`, `Seaborn` |
+| **Development & DevOps** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> |
 
 ---
 
-## 💼 Portfólio de Projetos
+## 💼 Featured Project: End-to-End BI Solution for "Bode do Nô"
 
-Aqui estão alguns projetos que demonstram minhas habilidades na prática, desde a coleta de dados até a geração de valor para o negócio.
+This project showcases my ability to architect a complete BI solution from the ground up for a major regional restaurant, transforming their operational data into a strategic asset.
 
----
+### The Challenge: Data Chaos and Missed Opportunities
+The restaurant's management operated with fragmented data. Sales information from in-house Point-of-Sale (POS) systems and third-party delivery platforms (like iFood) was siloed. This made it impossible to get a unified view of performance, leading to decisions based on intuition rather than evidence.
 
-### 1. [PROJETO DESTAQUE] Bode do Nô: BI e Análise de Vendas com Biamachine
-Análise completa do icônico restaurante "Bode do Nô" para otimizar vendas, estoque e entender o comportamento do consumidor. Este projeto demonstra a aplicação de BI em um cenário de negócio real para gerar insights estratégicos.
+### My Solution: Architecting a Single Source of Truth
+As the lead Data & BI Analyst, I engineered a full-cycle data solution to centralize information and deliver actionable insights.
 
-* **Objetivo:** Fornecer à gestão uma visão clara das métricas de performance (vendas por produto, ticket médio, horários de pico, etc.).
-* **Solução:**
-    * Desenvolvi um pipeline de ETL para extrair, limpar e modelar dados de vendas de múltiplas fontes.
-    * Criei um dashboard interativo no Power BI, permitindo a análise de KPIs em tempo real.
-    * Realizei uma análise exploratória (EDA) para identificar padrões de consumo e oportunidades de cross-sell/up-sell.
-* **Tecnologias:** `Python`, `pandas`, `SQL`, `Power BI (DAX)`, `Biamachine (ferramenta de automação)`
-* **[➡️ Ver Repositório](https://github.com/AndreRBrandt/bode-do-no-biamachine)**
+**1. Automated Data Ingestion & ETL Pipeline:**
+* I developed custom **Python scripts** to automatically extract raw sales data from diverse sources, completely eliminating hours of manual data compilation and the risk of human error.
+* I implemented robust data cleaning, validation, and standardization logic using **Pandas** to handle inconsistencies (e.g., standardizing product names like "Coca-Cola" vs. "Coca ks").
 
----
+**2. Centralized Data Modeling:**
+* I designed and deployed a **PostgreSQL** database to serve as the central data warehouse.
+* I structured the data into a relational model, creating a **Single Source of Truth** that consolidated sales, product, and customer metrics from all channels. This became the reliable foundation for all future analysis.
 
-### 2. Análise Preditiva de Churn de Clientes
-Um modelo de Machine Learning para prever a probabilidade de um cliente cancelar seu serviço, permitindo ações de retenção proativas.
+**3. Business-Driven KPI Development & Analysis:**
+* Collaborating with stakeholders, I identified and defined critical Key Performance Indicators (KPIs) that were previously untrackable, such as:
+    * Sales performance by channel (In-house vs. Delivery).
+    * Product profitability and combo analysis.
+    * Peak sales hours and day-of-week performance trends.
+    * Average ticket size evolution across different platforms.
 
-* **Descrição:** Pipeline completo, desde a limpeza dos dados até a avaliação do modelo, para identificar os principais fatores que levam ao churn.
-* **Tecnologias:** `Python`, `pandas`, `Scikit-learn`, `Matplotlib`, `Jupyter Notebook`
-* **[➡️ Ver Repositório](https://github.com/AndreRBrandt/churn-analysis)**
+**4. Interactive Dashboarding with BIMachine:**
+* Using **BIMachine**, I built a suite of dynamic, interactive dashboards tailored for the management team.
+* These dashboards provided a holistic view of the business, allowing executives to drill down into specifics, filter by date, product, or channel, and uncover insights independently. The solution moved them from static reports to dynamic data exploration.
 
----
+### Business Impact & Value Delivered
+* **Enabled Data-Driven Strategy:** Management can now accurately analyze which products sell best on which platform, optimize menu pricing, and adjust staffing based on predictable peak hours.
+* **Operational Efficiency:** Reduced manual reporting efforts by over **95%**, freeing up staff to focus on customer service and growth initiatives.
+* **Increased Profitability:** Identified underperforming items and high-margin product combinations, providing clear data to guide marketing promotions and inventory management, directly impacting the bottom line.
+* **A Scalable Foundation:** The system I built is not a one-off report; it's a scalable data infrastructure ready to incorporate new data sources as the business grows.
 
-### 3. Dashboard de Performance de Vendas
-Relatório interativo construído no Power BI para analisar receita mensal, segmentação de clientes e taxas de retenção.
+**Project Tech Stack:** `Python (Pandas)`, `SQL (PostgreSQL)`, `BIMachine`
 
-* **Descrição:** Uma ferramenta de BI para que gestores possam tomar decisões baseadas em dados, com filtros dinâmicos por região, produto e período.
-* **Tecnologias:** `Power BI`, `DAX`, `SQL Server`
-* **[➡️ Ver Repositório](https://github.com/AndreRBrandt/sales-dashboard)**
-
----
-
-### 4. Pipeline de ETL com Airflow para Dados Públicos
-Automação da ingestão de dados de APIs abertas (ex: dados governamentais) para um Data Warehouse em PostgreSQL, com orquestração via Airflow.
-
-* **Descrição:** Projeto focado em engenharia de dados, garantindo a coleta de dados de forma confiável, agendada e escalável.
-* **Tecnologias:** `Python`, `Apache Airflow`, `PostgreSQL`, `Docker`
-* **[➡️ Ver Repositório](https://github.com/AndreRBrandt/etl-pipeline)**
+**[➡️ Explore the Sanitized Project on GitHub](https://github.com/AndreRBrandt/bode-do-no-biamachine)**
 
 ---
 
-## 📫 Vamos Conversar!
+## 📫 Let's Connect!
 
-Estou sempre aberto a novos desafios, colaborações e oportunidades na área de dados. Vamos nos conectar!
+I am always excited to discuss new challenges in data engineering, BI, and analytics. Feel free to reach out for collaborations or opportunities.
 
 <p align="left">
 <a href="https://linkedin.com/in/AndreRBrandt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AndreRBrandt" height="30" width="40" /></a>
 <a href="mailto:andrereisbrandt@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="andrereisbrandt@gmail.com" height="30" width="40" /></a>
 </p>
 
-> "Sem dados, você é apenas mais uma pessoa com uma opinião." - W. Edwards Deming
+> "Without data, you're just another person with an opinion." - W. Edwards Deming
