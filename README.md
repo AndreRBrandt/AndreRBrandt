@@ -63,9 +63,8 @@ As the lead Data & BI Analyst, I engineered a full-cycle data solution to centra
 * **Increased Profitability:** Identified underperforming items and high-margin product combinations, providing clear data to guide marketing promotions and inventory management, directly impacting the bottom line.
 * **A Scalable Foundation:** The system I built is not a one-off report; it's a scalable data infrastructure ready to incorporate new data sources as the business grows.
 
-**Project Tech Stack:** `Python (Pandas)`, `SQL (PostgreSQL)`, `BIMachine`
+**Project Tech Stack:** `Python (Pandas)`, `SQL (PostgreSQL and Oracle)`, `BIMachine`, `Javascript`, `HTML`, `CSS`
 
-**[➡️ Explore the Sanitized Project on GitHub](https://github.com/AndreRBrandt/bode-do-no-biamachine)**
 
 ---
 
